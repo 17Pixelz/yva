@@ -2,4 +2,4 @@
 yva is a project concerns Youtube's videos analyzer
 
 
-![Logo](https://ibb.co/kg2ZnPk)
+![Logo](https://github.com/17Pixelz/yva/blob/master/YA.png)
